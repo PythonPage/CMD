@@ -1,6 +1,6 @@
 <div class="guide">
         <h1>PP Quick Start Guide</h1>
-        <p><code>Run CMD.bat</code></p>
+        <p><code>Run PPCMD.bat</code></p>
         <h1>PPCMD Commands</h1>
         <p><code>start &lt;FILE NAME or PATH&gt;</code></p>
         <p><code>sys &lt;original CMD command&gt;</code></p>
