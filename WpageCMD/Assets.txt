@@ -1,0 +1,3 @@
+ASK_ORDER: Please enter Command >>> |
+MS_ERROR: Shutting down
+LOGS_TARGET: C:\Users\jbd\Desktop\WpageCMD\logs.txt
