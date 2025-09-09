@@ -1,7 +1,7 @@
 <div class="guide">
-        <h1>WpageCMD Quick Start Guide</h1>
-        <p><code>Run WpageCMD.bat</code></p>
-        <h1>WpageCMD Commands</h1>
+        <h1>PP Quick Start Guide</h1>
+        <p><code>Run CMD.bat</code></p>
+        <h1>PPCMD Commands</h1>
         <p><code>start &lt;FILE NAME or PATH&gt;</code></p>
         <p><code>sys &lt;original CMD command&gt;</code></p>
         <p><code>say &lt;TEXT&gt;</code></p>
